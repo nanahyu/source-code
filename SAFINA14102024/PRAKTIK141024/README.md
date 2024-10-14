@@ -1,2 +1,2 @@
 
- praktik 1 menggunakan kontrol versi git
+ praktik 1 bersama nana menggunakan kontrol versi git
